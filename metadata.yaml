@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8241'
     url: http://www.gutenberg.org/2009/agents/8241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18770#A-Christmas-StoryMan-in-His-Element--or-A-New-Way-to-Keep-House
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-07-06'
 gutenberg_type: Text
